@@ -47,7 +47,11 @@ header span {
 }
 .menuDiv nav ul li:hover {
   background-color: #70d6f9;
-  color: #fff;
+  color: #000;
+}
+.usertabs a:hover {
+  background-color: #70d6f9;
+  color: #000;
 }
 .usertabs a {
   color: #fff;
